@@ -1,6 +1,6 @@
 # Login/ Sign In
 
-Project made for training my Javascript skills using DOM events.
+Project made to train my Javascript skills using DOM events.
 
 ## Screenshots
 
