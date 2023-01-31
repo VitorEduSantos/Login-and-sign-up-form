@@ -1,6 +1,6 @@
-# Título do Projeto
+# Login/ Sign In
 
-Login/ Sign In page project made to training my Javascript skills.
+Project made for training my Javascript skills using DOM events.
 
 ## Screenshots
 
